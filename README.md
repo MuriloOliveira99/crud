@@ -1,2 +1,2 @@
 # crud
-CRUD simples
+CRUD báisco
