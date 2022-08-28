@@ -27,7 +27,7 @@ def deletar(nome):
 cursor = conexao('DESKTOP-PNLMOAP', 'escola', 'sa', '123')
 cursor.cursor()
 
-# deletar('itapevi')
+# deletar('')
 
 while True:
     cidade = input('Cidade: ')
